@@ -26,7 +26,4 @@ The goal was to learn Linux fundamentals, practice server management, and unders
    <p>This page is served from (ashwin-linux)</p>
    </html>
  6. **Verified The Web Page**
-    Opened the browser and typed
-    file:///home/ashwin/Ashwin1
-    File name = Ashwin1
-    path = /home/ashwin/Ashwin1
+    Opened the browser and typed "file:///home/ashwin/Ashwin1" because the file name is 'Ashwin1' and the path for this file is '/home/ashwin/Ashwin1'.
